@@ -3,31 +3,6 @@
 ## Descripción del Proyecto
 Implementación completa en Raspberry Pi 3 que incluye configuración del sistema, desarrollo de dashboards con Streamlit y Grafana, automatización con Cron, y análisis de red con Nmap.
 
-## Estructura del Repositorio
-
-taller/
-│
-├── docs/
-│ ├── instalacion_raspberry.md
-│ ├── configuracion_red.md
-│ └── overleaf_document.md
-│
-├── scripts/
-│ ├── dashboard_streamlit.py
-│ ├── cron_automatizacion.sh
-│ └── analisis_red.sh
-│
-├── config/
-│ ├── crontab_example
-│ └── grafana_dashboard.json
-│
-├── evidences/
-│ ├── instalacion/
-│ ├── dashboards/
-│ └── redes/
-│
-└── README.md
-
 ## 1. Configuración e Instalación de Raspberry Pi
 
 ### Flasheo del Sistema Operativo
